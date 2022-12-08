@@ -1,0 +1,12 @@
+message-command-cancel: "This command can use only player."
+message-worldborder-set: "WorldBorder has been set. Good luck"
+message-not-op: "This command can use only owner."
+message-worldborder-deny: "WorldBorder has been removed. Good luck"
+int-size: 2
+
+default-border-center-x: ""
+default-border-center-y: ""
+default-border-size: ""
+default-spawn-location-x: ""
+default-spawn-location-y: ""
+default-spawn-location-z: ""

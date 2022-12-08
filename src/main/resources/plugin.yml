@@ -1,0 +1,9 @@
+name: BorderSurvival
+main: me.nelson131.bs.BorderSurvival
+version: 1.0.0
+api-version: 1.19
+description: small mini-game
+author: nelson131
+commands:
+  border:
+    description: main command
